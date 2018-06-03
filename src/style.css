@@ -6,3 +6,15 @@ tr.active {
   background: green !important;
   color: white;
 }
+
+div.inp{
+  margin-left: 1%;
+  margin-right: 1%;
+
+}
+
+.table{
+  background-color: aliceblue;
+
+
+}
